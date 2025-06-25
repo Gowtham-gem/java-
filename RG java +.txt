@@ -1,0 +1,60 @@
+class Main {
+    public static void main(String[] args) {
+        int r=135;int g= 25;
+        System.out.println(r+g);
+        System.out.println(r-g);
+        System.out.println(r*g);
+        System.out.println(r/g);
+        System.out.println(r%g);
+    }
+}  
+
+
+
+
+
+
+
+Relation --------------------------------------------------------------
+
+class Main {
+    public static void main(String[] args) {
+        int r=135;int g= 25;
+        System.out.println(r==g);
+        System.out.println(r!=g);
+        System.out.println(r>g);
+        System.out.println(r<g);
+        System.out.println(r>=g);
+        System.out.println(r<=g);
+    }
+}
+
+
+
+
+Assigment-----------------------------------------------------------------------------
+
+class Main {
+    public static void main(String[] args) {
+        int r=5;
+        System.out.println(r+5);
+         System.out.println(r-2);
+          System.out.println(r*10);
+           System.out.println(r/5);
+        
+    }
+}
+unarry------------------------------------------------------------------------------------------------
+
+
+class Main {
+    public static void main(String[] args) {
+        int r=5;
+        System.out.println(++r);
+          
+          System.out.println(r--);
+           System.out.println(-r);
+          System.out.println(r);
+         
+    }
+}

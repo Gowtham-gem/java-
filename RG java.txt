@@ -1,0 +1,14 @@
+class Main {
+  
+  public static void main(String[] args) {
+     
+   int r=1234;int g= 25;int rg=-30;
+      
+  System.out.println(Math.max(g,r));
+    
+   System.out.println(Math.min(g,r));
+     
+    System.out.println(Math.sqrt(g));
+      
+    System.out.println(Math.abs(rg));
+         
