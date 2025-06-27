@@ -20,3 +20,34 @@ class Main {
     }
 
 }
+
+
+
+
+operations----------------------------------------------------------------------
+
+
+
+class Main {
+  
+   public static void main(String[] args) {
+  
+      boolean isjavafun= true;
+ 
+       boolean isjavajoy= false;
+  
+      System.out.println(isjavafun);
+ 
+       int x=5;int y=10;int z=15;
+        System.out.println(x<z);
+ 
+       System.out.println(x<y);
+
+       System.out.println(x>y);
+ 
+       System.out.println(x<=y);
+
+        
+        
+    }
+}
