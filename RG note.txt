@@ -1,0 +1,22 @@
+class Main {
+  
+  public static void main(String[] args) {
+   
+     int  num= 4;
+     
+     int a=num++;
+   
+     System.out.println("a is "+a);
+  
+     System.out.println("number is "+ num);
+  
+     int b=++num;
+   
+     System.out.println("b is "+ b);
+   
+     System.out.println("number is "+ num);
+ 
+       
+    }
+
+}
