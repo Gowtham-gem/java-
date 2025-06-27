@@ -51,3 +51,36 @@ class Main {
         
     }
 }
+
+if else-------------------------------------------------------------------------------------
+
+
+class Main {
+    public static void main(String[] args) {
+ 
+    int x=783;
+
+    if (x>7){
+ 
+    System.out.println("hi");
+
+    }
+if(x<7){
+    System.out.println("hello");
+ 
+    }else{
+ 
+    System.out.println("Welcome");
+ 
+       }
+        
+        
+
+    }
+}
+
+
+
+
+
+             --------------------------------------------------------------------------
